@@ -1,0 +1,1 @@
+0,15,30,45 * * * * root /usr/local/bin/lcd2004-display.sh
